@@ -1,0 +1,8 @@
+<suite name= "Naukri Webpage Automation">
+<test name="Upload Latest Resume">
+<classes>
+<class name= "wings1HandsOnRev.NaukriWebpage"></class>
+
+</classes>
+</test>
+</suite>

@@ -1,0 +1,8 @@
+<suite name= "Master  Automation">
+<test name="Master Test ">
+<classes>
+<class name= "mavenTest.NaukriWebpage"></class>
+
+</classes>
+</test>
+</suite>
