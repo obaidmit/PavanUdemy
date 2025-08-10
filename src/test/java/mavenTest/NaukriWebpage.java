@@ -59,7 +59,7 @@ public class NaukriWebpage {
 		////input[@id='attachCV']
 		////input[@value='Update resume']
 		WebElement resumeUpload=driver.findElement(By.xpath("//input[@id='attachCV']"));
-		resumeUpload.sendKeys("D:\\Resume Obaid QA\\MdObaidullah_resumeLeaf.pdf");
+		resumeUpload.sendKeys("D:\\Automation Resume Obaid\\MdObaidullah_resumeLeaf.pdf");
 		
 		//js.executeScript("arguments[0].value='D:\\Resume Obaid QA\\MdObaidullah_resumeLeaf.pdf';", resumeUpload);
 		
